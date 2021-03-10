@@ -47,5 +47,5 @@ class FilterModule(object):
             if flag == 0:
                 device.append(inter[1][:-1])
             flag = 0
-            return device     
+        return device     
 
